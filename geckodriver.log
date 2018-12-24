@@ -1,0 +1,1383 @@
+1544569895475	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.RN4RSOrOpj0u"
+1544569898973	Marionette	INFO	Listening on port 49524
+1544569899055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js, line 456: TypeError: node.offsetParent is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js, line 456: TypeError: node.offsetParent is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+1544570587707	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.FbVoqMKd0rxQ"
+1544570590436	Marionette	INFO	Listening on port 49723
+1544570590469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544570594863	Marionette	INFO	Stopped listening on port 49524
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 663, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps, line 3087: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps, line 3087: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps, line 3088: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps, line 3106: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps, line 3106: Error: WebGL warning: copyTexSubImage2D: This operation requires zeroing texture data. This is slow.
+1544573795544	Marionette	INFO	Stopped listening on port 49723
+1544573800525	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.nu12HIXhRBiN"
+1544573808962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544573808962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544573811244	Marionette	INFO	Listening on port 50605
+1544573814133	Marionette	INFO	Stopped listening on port 50605
+1544573816964	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.U3mRnxcl7Cb0"
+1544573817573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544573817573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544573819462	Marionette	INFO	Listening on port 50639
+1544573819515	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+1544574108918	Marionette	INFO	Stopped listening on port 50639
+1544589599159	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.SNgFGlPDd9aJ"
+1544589600242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544589600243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544589602777	Marionette	INFO	Listening on port 49435
+1544589602788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+Can't find symbol 'GetGraphicsResetStatus'.
+1544591664973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.sf9YvuWq4ptz"
+1544591665767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544591665767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544591667710	Marionette	INFO	Listening on port 49790
+1544591667766	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+Can't find symbol 'GetGraphicsResetStatus'.
+1544592248715	Marionette	INFO	Stopped listening on port 49790
+Can't find symbol 'GetGraphicsResetStatus'.
+1544592253874	Marionette	INFO	Stopped listening on port 49435
+1544641970309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.9GggVq8gRPAZ"
+1544641971338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544641971339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544641973894	Marionette	INFO	Listening on port 49409
+1544641973990	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544643365417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.7C01SzLnQT3T"
+1544643366167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544643366167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544643368050	Marionette	INFO	Listening on port 49674
+1544643368060	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+1544643958030	Marionette	INFO	Stopped listening on port 49409
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544652507144	Marionette	INFO	Stopped listening on port 49674
+1544652511388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.EePyTtlYoAq4"
+1544652512163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544652512164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544652514121	Marionette	INFO	Listening on port 50438
+1544652514143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544652713769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.BRuYo2VjvyYn"
+1544652714451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544652714452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544652716318	Marionette	INFO	Listening on port 50533
+1544652716436	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544654575332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.aavS18iFoleL"
+1544654576124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544654576124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544654578195	Marionette	INFO	Listening on port 50762
+1544654578227	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+Can't find symbol 'GetGraphicsResetStatus'.
+1544655684981	Marionette	INFO	Stopped listening on port 50533
+1544655686836	Marionette	INFO	Stopped listening on port 50762
+1544656118500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.vOzQG98KGy5O"
+1544656119281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544656119281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544656121224	Marionette	INFO	Listening on port 51024
+1544656121319	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1544656275338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.CAVUgkwM8Lle"
+1544656276063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544656276064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544656277961	Marionette	INFO	Listening on port 51116
+1544656278014	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1193, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1544660379671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.sqpV82uM24Cv"
+1544660380793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544660380793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544660383249	Marionette	INFO	Listening on port 49303
+1544660383398	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544665714238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.9teZP3hNMzGh"
+1544665715147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544665715148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544665717153	Marionette	INFO	Listening on port 49833
+1544665717215	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544667957439	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.ANlMnCcKT043"
+1544667958197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544667958198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544667960289	Marionette	INFO	Listening on port 50111
+1544667960331	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544672365940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.yMJkX89i6b4w"
+1544672367036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544672367036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544672369552	Marionette	INFO	Listening on port 50626
+1544672369605	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544682486527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.6jAvuGk2HYuU"
+1544682487443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544682487443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544682489789	Marionette	INFO	Listening on port 51325
+1544682489804	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3676, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1544687296229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.tCudi6H7ab76"
+1544687297070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544687297070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544687299068	Marionette	INFO	Listening on port 51511
+1544687299076	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544699266322	Marionette	INFO	Stopped listening on port 51511
+1544714294447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.WQxT7pBUa3De"
+1544714295650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544714295650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544714298102	Marionette	INFO	Listening on port 50053
+1544714298141	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544754990795	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.CCV7QsEVpVtE"
+1544754991840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544754991840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544754994617	Marionette	INFO	Listening on port 49368
+1544754994678	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544758985257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.cPQJ4AGFpoLQ"
+1544758986230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544758986230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544758988394	Marionette	INFO	Listening on port 50659
+1544758988452	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:798:5\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): node is null"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 147ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1544768093658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.jUluXuwzqnSP"
+1544768094682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544768094682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544768097035	Marionette	INFO	Listening on port 53654
+1544768097108	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544770995824	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.yM9jT95DQBUg"
+1544770998445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544770998446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544771002989	Marionette	INFO	Listening on port 54704
+1544771003125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544771102057	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.ybkGd5iGBhuE"
+1544771105735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544771105736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544771110475	Marionette	INFO	Listening on port 54917
+1544771110671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544771171150	Marionette	INFO	Stopped listening on port 54917
+1544771181372	Marionette	INFO	Stopped listening on port 54704
+1544771285972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.NCZbopFFLjZj"
+1544771286897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544771286897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544771288951	Marionette	INFO	Listening on port 55075
+1544771289069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544771329223	Marionette	INFO	Stopped listening on port 55075
+1544771331920	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.EoyGHRjaQdWd"
+1544771332549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544771332550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544771334401	Marionette	INFO	Listening on port 55167
+1544771334509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544771572111	Marionette	INFO	Stopped listening on port 55167
+1544771632262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.L10rkCI8nZvf"
+1544771632864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544771632864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544771634733	Marionette	INFO	Listening on port 55312
+1544771634847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544771654622	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.9Pn7gkuO9UDF"
+1544771655263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544771655263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544771657026	Marionette	INFO	Listening on port 55399
+1544771657099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544771791283	Marionette	INFO	Stopped listening on port 55399
+Can't find symbol 'GetGraphicsResetStatus'.
+1544771802218	Marionette	INFO	Stopped listening on port 55312
+1544771808019	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.XRaS9ZvUsCRY"
+1544771808664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544771808665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544771810580	Marionette	INFO	Listening on port 55486
+1544771810697	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544796138573	Marionette	INFO	Stopped listening on port 55486
+1544813019948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.mvWgofqldXEK"
+1544813020969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544813020969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544813023303	Marionette	INFO	Listening on port 49350
+1544813023340	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544817987041	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.IdkDEkhy6RL1"
+1544817987961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544817987962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544817990550	Marionette	INFO	Listening on port 51925
+1544817990651	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544824484596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.8XVPXYnVIMnS"
+1544824485792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544824485792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544824488280	Marionette	INFO	Listening on port 62053
+1544824488290	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1544824655544	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.8052bcxsToUl"
+1544824656321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544824656321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544824658310	Marionette	INFO	Listening on port 62448
+1544824658433	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1544830719892	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.IFmphFBhFCg5"
+1544830720921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544830720922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544830724606	Marionette	INFO	Listening on port 56619
+1544830724752	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1544833337818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.jWt0bnSohnuc"
+1544833338814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544833338814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544833341230	Marionette	INFO	Listening on port 60942
+1544833341298	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544835465395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.8sCjAtS0uYmJ"
+1544835466230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544835466230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544835468358	Marionette	INFO	Listening on port 63981
+1544835468370	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1544899034500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.r58ARXllsGHe"
+1544899035564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544899035565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544899038089	Marionette	INFO	Listening on port 49303
+1544899038181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544899123823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.mfztDPPVscVZ"
+1544899124577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544899124577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544899126586	Marionette	INFO	Listening on port 49410
+1544899126699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544899128631	Marionette	INFO	Stopped listening on port 49303
+1544899180741	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.MLpii3hFflRy"
+1544899181326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544899181326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544899183205	Marionette	INFO	Listening on port 49465
+1544899183395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544899187302	Marionette	INFO	Stopped listening on port 49410
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544902155433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.caPUvluiJPUQ"
+1544902156054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544902156054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544902158041	Marionette	INFO	Listening on port 50296
+1544902158083	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544906501271	Marionette	INFO	Stopped listening on port 50296
+1544912095859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.efIaGg2owPLc"
+1544912096560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544912096560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544912098573	Marionette	INFO	Listening on port 49345
+1544912098680	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1544918688143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.EHKpwtpj9aq6"
+1544918688844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544918688844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544918690868	Marionette	INFO	Listening on port 50321
+1544918690899	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator, line 1: TypeError: uo.evalClick is not a function
+1544925598901	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.wFgCjzTRzpud"
+1544925599917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544925599918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544925602444	Marionette	INFO	Listening on port 51014
+1544925602491	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544932171600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.miEBhseHRFOk"
+1544932172637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544932172638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544932174928	Marionette	INFO	Listening on port 51613
+1544932174978	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+1544965064115	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.DxoOfR9OETUs"
+1544965065147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544965065147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544965067908	Marionette	INFO	Listening on port 49319
+1544965067940	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+Can't find symbol 'GetGraphicsResetStatus'.
+1544968755626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.16vFdyHpPK0X"
+1544968756657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544968756658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544968759118	Marionette	INFO	Listening on port 49805
+1544968759189	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544972041910	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.oV7n5vXuw5XX"
+1544972042709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544972042709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544972044470	Marionette	INFO	Listening on port 50148
+1544972044575	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1544989426873	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.IuoqNthmk0SH"
+1544989427918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544989427919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544989430477	Marionette	INFO	Listening on port 49305
+1544989430569	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":1611,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:1611","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:778","chrome://global/content/globalOverlay.js:goQuitApplication:53","chrome://browser/content/hiddenWindow.xul:oncommand:1"]}] Barrier: quit-application-granted
+1544995232754	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.lz7tp2x8XFDK"
+1544995233781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544995233781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1544995236229	Marionette	INFO	Listening on port 49262
+1544995236337	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+Can't find symbol 'GetGraphicsResetStatus'.
+1545003955976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.NT1w1ifBB4EX"
+1545003956980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545003956981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545003959400	Marionette	INFO	Listening on port 49357
+1545003959474	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":1611,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:1611","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:778","chrome://global/content/globalOverlay.js:goQuitApplication:53","chrome://browser/content/hiddenWindow.xul:oncommand:1"]}] Barrier: quit-application-granted
+1545009527899	Marionette	INFO	Stopped listening on port 49357
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1630: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1545011698527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.69GdSMeekfq4"
+1545011699254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545011699254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545011701234	Marionette	INFO	Listening on port 50598
+1545011701285	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545014377392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.UFeuuqdzY7lF"
+1545014378353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545014378354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545014380525	Marionette	INFO	Listening on port 50851
+1545014380619	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545071340729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.P597RluseAeR"
+1545071341800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545071341801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545071344228	Marionette	INFO	Listening on port 49362
+1545071344313	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+[Parent 496, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1545074617569	Marionette	INFO	Stopped listening on port 49362
+1545074622704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.JXbS1xPVAdTE"
+1545074623552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545074623553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545074625772	Marionette	INFO	Listening on port 50075
+1545074625780	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1545080267918	Marionette	INFO	Stopped listening on port 50075
+1545080344607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.RgtG5GzTGuOZ"
+1545080345599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545080345600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545080347719	Marionette	INFO	Listening on port 51358
+1545080347789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545080757070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.WBQAL6iaWOGM"
+1545080757933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545080757934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545080760695	Marionette	INFO	Listening on port 51556
+1545080760771	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545082145617	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.sPj2Ki31BDgg"
+1545082147099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545082147100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545082150826	Marionette	INFO	Listening on port 51772
+1545082150877	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545082535812	Marionette	INFO	Stopped listening on port 51772
+1545082545139	Marionette	INFO	Stopped listening on port 51358
+1545085851311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.AJzGGYgycB8R"
+1545085852077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545085852077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545085854179	Marionette	INFO	Listening on port 52340
+1545085854320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545085923166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.NezTmrc0HbI5"
+1545085924060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545085924060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545085926366	Marionette	INFO	Listening on port 52468
+1545085926430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1545085975318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.51ZpCu52efTp"
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1545085977026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545085977026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545085979696	Marionette	INFO	Listening on port 52559
+1545085979736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1545086159696	Marionette	INFO	Stopped listening on port 52468
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1545090709661	Marionette	INFO	Stopped listening on port 52559
+Can't find symbol 'GetGraphicsResetStatus'.
+1545090716104	Marionette	INFO	Stopped listening on port 51556
+1545094087426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.HYPpytYtYCp0"
+1545094088206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545094088207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545094090010	Marionette	INFO	Listening on port 55348
+1545094090112	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545106602066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.LvGp0wXfH96O"
+1545106603209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545106603210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545106606031	Marionette	INFO	Listening on port 49308
+1545106606092	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545117247071	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.byOX2BuShrWg"
+1545117248111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545117248111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545117250675	Marionette	INFO	Listening on port 49290
+1545117250760	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545139944648	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.g0LsDUgbbkjd"
+1545139945685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545139945686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545139948134	Marionette	INFO	Listening on port 49291
+1545139948164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545140022604	Marionette	INFO	Stopped listening on port 49291
+1545140025580	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.opCuKnJmHC8T"
+1545140026369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545140026369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545140028305	Marionette	INFO	Listening on port 49368
+1545140028349	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545156995113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.S1HDUhPBTsuE"
+1545156996123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545156996124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545156998562	Marionette	INFO	Listening on port 49318
+1545156998630	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1545171730689	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.sjOUy5ZmwdOz"
+1545171731816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545171731816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545171734507	Marionette	INFO	Listening on port 49302
+1545171734585	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+JavaScript error: https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z, line 1: TypeError: uo.evalClick is not a function
+1545176891059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.1QUFC02P8B1X"
+1545176892120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545176892120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545176894578	Marionette	INFO	Listening on port 49280
+1545176894643	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+Can't find symbol 'GetGraphicsResetStatus'.
+1545180558533	Marionette	INFO	Stopped listening on port 49280
+1545180563635	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.8NO86TXWLSwY"
+1545180564380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545180564380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545180566272	Marionette	INFO	Listening on port 49668
+1545180566286	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1545182527985	Marionette	INFO	Stopped listening on port 49668
+1545182724561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.KElJUBo9pEP3"
+1545182725320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545182725321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545182727282	Marionette	INFO	Listening on port 50024
+1545182727330	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545187580331	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.swZ6JodbTRJV"
+1545187581114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545187581114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545187583059	Marionette	INFO	Listening on port 50988
+1545187583114	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545424321509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.f1dgq03FXv1e"
+1545424322613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545424322614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545424325204	Marionette	INFO	Listening on port 49274
+1545424325297	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545508583021	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.oTeXZtyArH2e"
+1545508584061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545508584061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545508586707	Marionette	INFO	Listening on port 49303
+1545508586721	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545671422826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.CvyfACHIDPdQ"
+1545671423981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545671423981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545671426565	Marionette	INFO	Listening on port 50847
+1545671426635	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545680714551	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zt/pn3hp9n54rs8lq8v_ldjn7d40000gp/T/rust_mozprofile.2HNtNd0v7fXC"
+1545680715591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545680715591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545680718219	Marionette	INFO	Listening on port 49698
+1545680718298	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
